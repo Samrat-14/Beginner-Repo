@@ -30,4 +30,6 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Samrat Sadhu](https://github.com/Samrat-14/)
+
 
